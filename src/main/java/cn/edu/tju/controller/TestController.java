@@ -13,7 +13,7 @@ public class TestController{
 
     @RequestMapping("/hello")
         public String hello(){
-        return "hello , now is "+new Date();
+        return "test it , now is "+new Date();
         }
 
     @RequestMapping("/greet")
