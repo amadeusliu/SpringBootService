@@ -1,6 +1,5 @@
 package cn.edu.tju;
 
-/*
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -10,9 +9,9 @@ public class Start {
         SpringApplication.run(Start.class,args);
     }
 }
-*/
 
 
+/*
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
@@ -31,5 +30,6 @@ public class Start extends SpringBootServletInitializer
         return builder.sources(Start.class);
     }
 }
+*/
 
 
